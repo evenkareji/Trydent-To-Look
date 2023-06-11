@@ -2,7 +2,7 @@
 
 <template>
   <h1>Firebase</h1>
-  <p>このページではfirebase関数が正常に実行されるかを確認する</p>
+  <p>このファイル内ではfirebase関数が正常に実行されるかを確認する</p>
   <section>
     <h2>実装したい機能一覧</h2>
     <ul>
