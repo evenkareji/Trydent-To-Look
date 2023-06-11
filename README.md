@@ -9,3 +9,7 @@ Nuxt.js
 TypeScript
 css
 Firebase
+
+[git command]
+git push origin ~~~
+git pull origin main

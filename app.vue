@@ -5,7 +5,7 @@
 </template>
 <script setup>
 useHead({
-  title: 'Nuxt 3 store',
+  title: 'Trydent To Look',
   link: [
     {
       rel: 'stylesheet',
